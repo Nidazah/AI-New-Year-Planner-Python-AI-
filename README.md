@@ -15,11 +15,6 @@ A Python-based desktop application that helps users create personalized year-lon
   - > 4 hours/day: Balanced approach with rest periods
 - **Clean GUI Interface**: User-friendly desktop application built with Tkinter
 
-## 📸 Screenshot
-
-![AI New Year Planner Interface](AI-Planner.png)
-*Generate personalized plans in seconds*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
