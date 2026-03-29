@@ -17,7 +17,7 @@ A Python-based desktop application that helps users create personalized year-lon
 
 ## 📸 Screenshot
 
-![AI New Year Planner Interface](C:\Users\786\OneDrive\Desktop\screenshot.png)
+![AI New Year Planner Interface](AI-Planner.png)
 *Generate personalized plans in seconds*
 
 ## 🚀 Getting Started
