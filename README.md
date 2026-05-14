@@ -1,8 +1,8 @@
-# 🧠 AI New Year Planner
+# AI New Year Planner
 
 A Python-based desktop application that helps users create personalized year-long plans with intelligent time management strategies. Built with Tkinter, this tool generates customized study/work schedules based on your goals and available time.
 
-## 🎯 Features
+## Features
 
 - **Goal-Oriented Planning**: Input your specific goals and get a structured roadmap
 - **Intelligent Time Allocation**: Calculates weekly hours and suggests optimal time management techniques
@@ -15,7 +15,7 @@ A Python-based desktop application that helps users create personalized year-lon
   - > 4 hours/day: Balanced approach with rest periods
 - **Clean GUI Interface**: User-friendly desktop application built with Tkinter
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -35,39 +35,39 @@ cd AI-New-Year-Planner-Python-AI-
 python "AI New Year Planner.py"
 ```
 
-## 💡 How to Use
+## How to Use
 
 1. **Enter Your Goal**: Type in what you want to achieve (e.g., "Master Python Programming", "Complete Web Development Course")
 2. **Set Available Hours**: Input how many hours per day you can dedicate
 3. **Choose Category**: Select either "Study" or "Work"
 4. **Generate Plan**: Click the button to receive your personalized AI-generated plan
 
-## 🧪 Example Output
+## Example Output
 
 ```
-🎯 GOAL: Master Machine Learning
+ GOAL: Master Machine Learning
 
-📅 YEAR PLAN:
+ YEAR PLAN:
 - Learn fundamentals → practice → projects
 
-🗓️ WEEKLY PLAN:
+ WEEKLY PLAN:
 - Study/Work Hours per Week: 21
 
-⏰ TIME MANAGEMENT STRATEGY:
+ TIME MANAGEMENT STRATEGY:
 - Pomodoro Technique
 - Use deep focus blocks (90 min)
 
-✅ AI Recommendation:
+ AI Recommendation:
 Stay consistent. Review progress monthly.
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language**: Python 3
 - **GUI Framework**: Tkinter
 - **AI Logic**: Rule-based decision system
 
-## 📝 How It Works
+## How It Works
 
 The application uses a rule-based AI system that:
 1. Analyzes user input (goal, hours, category)
@@ -75,14 +75,14 @@ The application uses a rule-based AI system that:
 3. Generates a structured plan with monthly progression
 4. Provides adaptive recommendations based on available time
 
-## 🎓 Use Cases
+## Use Cases
 
 - **Students**: Plan semester goals and study schedules
 - **Professionals**: Organize skill development and career goals
 - **Self-learners**: Structure learning paths for new technologies
 - **Entrepreneurs**: Time-block business development activities
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Export plans to PDF/CSV
 - [ ] Progress tracking dashboard
@@ -92,24 +92,24 @@ The application uses a rule-based AI system that:
 - [ ] Custom time management techniques
 - [ ] Mobile version
 
-## 👩‍💻 Author
+## Author
 
 **Nida**
 - GitHub: [@Nidazah](https://github.com/Nidazah)
 - Computer Science Student | AI Enthusiast
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Nidazah/AI-New-Year-Planner-Python-AI-/issues).
 
-## ⭐ Show Your Support
+## Show Your Support
 
 If you found this project helpful, please give it a star!
 
 ---
 
-*Built with 💙 by Nida | Making productivity planning smarter*
+*Built with by Nida | Making productivity planning smarter*
